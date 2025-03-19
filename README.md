@@ -40,7 +40,7 @@ _A comprehensive dashboard created with Excel and Power BI to monitor employee a
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/kshitijchavhan24)
 - [GitHub](https://github.com/kshitijchavhan24)
 
 ## ⚡ Fun Fact
