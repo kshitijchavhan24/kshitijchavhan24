@@ -1,4 +1,3 @@
-![logo](https://github.com/kshitijchavhan24/kshitijchavhan24/blob/main/Background.png)
 # Hi there, I'm Kshitij Chavhan! 👋
 
 I'm a dedicated developer and technology expert focused on building data-driven solutions. I design scalable data systems, implement advanced analytics and machine learning models, and optimize workflows to solve complex problems. With experience in data engineering, big data analytics, and automation, I constantly explore new technologies to boost business growth and deliver real results in dynamic environments.
