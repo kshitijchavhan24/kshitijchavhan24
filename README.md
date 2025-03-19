@@ -36,7 +36,7 @@ _A comprehensive dashboard created with Excel and Power BI to monitor employee a
 
 - **Programming Languages:** Python, SQL, JavaScript, Bash
 - **Frameworks & Tools:** OpenCV, TensorFlow, FastAPI, Apache Kafka, Apache Spark, Docker, Kubernetes, AWS, Power BI, Tableau, Tkinter
-- **Other:** Data processing, Machine Learning, ETL Pipelines, RESTful API development
+- **Other:** Data processing, Machine Learning, NoSQL, ETL Pipelines, RESTful API development
 
 ## 📫 Connect with Me
 
